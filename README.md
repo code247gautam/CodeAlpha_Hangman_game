@@ -12,12 +12,12 @@ Repeatation same letter not allowed.
 <b>When you guess incorrect letters.</b>
 <br>
 <br>
-![Screenshot 2025-06-20 135031](https://github.com/user-attachments/assets/edbd8e33-f5cd-4776-8ea4-cb7e125bfe3a)
+<image src="https://github.com/user-attachments/assets/edbd8e33-f5cd-4776-8ea4-cb7e125bfe3a">
 <br>
   <li>
   <b>When you guess incorrect letters.</b>
 <br>
 <br>
-![Screenshot 2025-06-20 135137](https://github.com/user-attachments/assets/9bf2a3d7-bd85-4c49-920b-6d38e5864807)
+<image src="https://github.com/user-attachments/assets/9bf2a3d7-bd85-4c49-920b-6d38e5864807">
 
 
